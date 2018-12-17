@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = "This CocoaPod provides the ability to use a UILabel that may be started and stopped blinking"
 
-  s.homepage         = 'https://github.com/ranjans402/TestOpenXC'
+  s.homepage         = 'https://github.com/ranjan sahu/TestOpenXC'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ranjan sahu' => 'kranjan@ford.com' }
-  s.source           = { :git => 'https://github.com/ranjans402/TestOpenXC.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ranjan sahu/TestOpenXC.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
