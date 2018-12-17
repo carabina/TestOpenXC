@@ -1,0 +1,16 @@
+PODS:
+  - TestOpenXC (0.1.0)
+
+DEPENDENCIES:
+  - TestOpenXC (from `../`)
+
+EXTERNAL SOURCES:
+  TestOpenXC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestOpenXC: 2259dadb3b89051b765d640e4c7f734b19c5700d
+
+PODFILE CHECKSUM: 3497163d6c2027694bdf5ecef1199ca0154a536c
+
+COCOAPODS: 1.6.0.beta.2

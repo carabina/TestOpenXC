@@ -1,0 +1,22 @@
+{
+  "name": "TestOpenXC",
+  "version": "0.1.0",
+  "summary": "A short description of TestOpenXC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ranjan sahu/TestOpenXC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ranjan sahu": "kranjan@ford.com"
+  },
+  "source": {
+    "git": "https://github.com/ranjan sahu/TestOpenXC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestOpenXC/Classes/**/*"
+}

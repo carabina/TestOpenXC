@@ -1,0 +1,6 @@
+framework module TestOpenXC {
+  umbrella header "TestOpenXC-umbrella.h"
+
+  export *
+  module * { export * }
+}
